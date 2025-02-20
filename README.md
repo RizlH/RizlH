@@ -1,4 +1,4 @@
-<h1>Hi 👋, I'm Rizal</h1>
+<h1>YOYOYO! RIZAL IS HEREEEE!!!! 👋</h1>
 <p>🌱 I am a beginner web developer who is passionate about continuing to learn and grow. 🚀 With every line of code I write, I strive to turn ideas into reality, creating engaging and functional web experiences. 💡 Even though I am still in the learning stage, I believe that with persistence and relentless exploration, I can build something extraordinary. 💻✨ Let's collaborate and grow together in the world of web development!"</p>
 <h2>🚀 Languages and Tools I Use</h2>
 <p><a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="42" height="42" /></a>
