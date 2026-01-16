@@ -60,10 +60,10 @@
 <h2 align="center">📫 Contact Me</h2>
 
 <p align="center">
-  <a href="https://wa.me/6285177830984" target="_blank">
+  <a href="https://wa.me/6285177830984" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
   </a>
-  <a href="mailto:rzlhrmwn00@gmail.com" target="_blank">
+  <a href="mailto:rzlhrmwn00@gmail.com" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
@@ -73,10 +73,10 @@
 <h2 align="center">⚡️ Where to Find Me</h2>
 
 <p align="center">
-  <a href="https://www.facebook.com/rizal.hermawan.90410" target="_blank">
+  <a href="https://www.facebook.com/rizal.hermawan.90410" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/Facebook-0866FF?style=for-the-badge&logo=facebook&logoColor=white" />
   </a>
-  <a href="https://www.instagram.com/rzl_hermwn" target="_blank">
+  <a href="https://www.instagram.com/rzl_hermwn" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/Instagram-F35369?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
 </p>
