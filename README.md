@@ -41,7 +41,7 @@
 
 ---
 
-<h2 align="center">📊 Contribution in the Last Year</h2>
+<h2 align="center">📊 Contribution in the Last Month</h2>
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=RizlH&theme=react-dark&hide_border=true" />
