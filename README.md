@@ -47,14 +47,6 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=RizlH&theme=react-dark&hide_border=true" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=RizlH&show_icons=true&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=RizlH&theme=tokyonight&hide_border=true" />
-</p>
-
 ---
 
 <h2 align="center">📫 Contact Me</h2>
