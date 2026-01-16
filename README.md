@@ -8,9 +8,9 @@
 ---
 
 <p align="center">
-🌱 I am a beginner web developer who is passionate about continuing to learn and grow. <br/>
-🚀 With every line of code I write, I strive to turn ideas into reality. <br/>
-💡 Persistence, curiosity, and exploration drive me to build meaningful web experiences. <br/>
+🌱 I am a beginner web developer who is passionate about continuing to learn and grow. 
+🚀 With every line of code I write, I strive to turn ideas into reality. 
+💡 Persistence, curiosity, and exploration drive me to build meaningful web experiences. 
 💻✨ Let's collaborate and grow together in the world of web development!
 </p>
 
@@ -26,7 +26,7 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" width="45" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/visualbasic/visualbasic-original.svg" width="45" />
   <!-- Frameworks -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original-wordmark.svg" width="45" background-color="#fff" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original-wordmark.svg" width="45" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/codeigniter/codeigniter-plain.svg" width="45" />
   <!-- Databases -->
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="45" />
